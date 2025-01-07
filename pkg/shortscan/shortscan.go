@@ -124,7 +124,7 @@ var httpMethods = [...]string{
 }
 
 // Path suffixes to try
-var pathSuffixes = [...]string{"/", "", "/.aspx", "?aspxerrorpath=/", "/.aspx?aspxerrorpath=/", "/.asmx", "/.vb"}
+var pathSuffixes = [...]string{"/", "", "/.aspx", "?aspxerrorpath=/", "/.aspx?aspxerrorpath=/", "/.asmx", "/.vb", "/.rem"}
 
 // Embed the default wordlist
 //
